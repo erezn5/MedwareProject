@@ -16,6 +16,20 @@ These instructions will get you a copy of the project up and running on your loc
 ```
 src/main/java/resources/data.properties
 ```
+* please be aware that there are 2 excel files added to the project in order to simulate a case where the database got the correct info and the database got the incorrect info.
+
+  You can find those excel files under:
+  
+  ```
+  src/main/java/resources/medi.xlsx
+  src/main/java/resources/medi_malformed.xlsx
+  ```
+* please be aware of the screenshot of how the table created, images can be found under:
+
+```
+\medware\2020-08-21 13_20_23-MySQL Workbench.png
+\medware\2020-08-21 13_21_33-MySQL Workbench.png
+```
 
 ### Running Tests
 * running using maven: (verify you are located in the source path, e.g: '\medware')
