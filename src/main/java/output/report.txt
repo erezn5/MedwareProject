@@ -1,0 +1,5 @@
+Excel Sheet: headaches R339 339.0,346.0,784.0,307.82 0 
+SQL List: headaches R339 339.0,346.0,784.0,307.81 0 
+Excel Sheet: heart failure R428 428.0,425.0,514.0,518.7 0 
+SQL List: heart failure R428 428.0,425.0,514.0,518.4 0 
+No Type: Pass 
